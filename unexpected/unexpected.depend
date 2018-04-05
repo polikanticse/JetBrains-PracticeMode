@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522936344 source:d:\practicemode-cpp\unexpected\hacker-1.c
+	<stdio.h>
+	<string.h>
+
+1522936480 source:d:\practicemode-cpp\unexpected\string war.c
+	<stdio.h>
+
+1522669544 source:d:\practicemode-cpp\unexpected\ue-hello_world.cpp
+	<iostream>
+
