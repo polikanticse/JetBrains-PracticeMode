@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="basic-hello world.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+		</Unit>
 		<Unit filename="hacker-1.c">
 			<Option compilerVar="CC" />
 		</Unit>
