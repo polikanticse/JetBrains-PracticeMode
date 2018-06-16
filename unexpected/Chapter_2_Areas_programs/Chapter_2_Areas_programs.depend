@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529124893 source:d:\practicemode-cpp\unexpected\chapter_2_areas_programs\area_and_circumfarence_of_a_circle.c
+	<stdio.h>
+	<math.h>
+
